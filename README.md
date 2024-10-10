@@ -46,7 +46,7 @@ O projeto segue a arquitetura de camadas, com as seguintes divisões:
 
 ## Documentação e Testes
 
-- A API está documentada utilizando o Swagger e pode ser acessada em `http://localhost:{porta}/swagger`.
+- A API está documentada utilizando o Swagger e pode ser acessada em `http://localhost:5269/swagger`.
 - Os testes podem ser executados através do Visual Studio ou pela linha de comando:
     ```bash
     dotnet test
